@@ -14,12 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="mailto:hinaus12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hinaus12@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a>
-<br/>
-<br/>
-<h3>My Skills</h3>
-<div align="left">
+<h3 align="center">⚡ My Skills ⚡</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB" style={display: "inline"}/>
   <img src="https://img.shields.io/badge/Typescript-20232a.svg?style=flat&logo=typescript&logoColor=#3178C6" style={display: "inline"} />
   <img src="https://img.shields.io/badge/Javascript-20232a.svg?style=flat&logo=javascript&logoColor=#F7DF1E" />
@@ -28,13 +24,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-20232a.svg?style=flat&logo=CSS3&logoColor=#1572B6" />
   <img src="https://img.shields.io/badge/Sass-20232a.svg?style=flat&logo=sass&logoColor=#CC6699" />
 </div>
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/StyledComponents-20232a.svg?style=flat&logo=styledcomponents&logoColor=#E34F26" />
   <img src="https://img.shields.io/badge/AntDesign-20232a.svg?style=flat&logo=antdesign&logoColor=#0170FE" />
 </div>
 <br/>
-<br/>
-<div align="left">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejk0731&layout=compact)
-  ![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejk0731&show_icons=true&theme=vue)
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+  
+[![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejk0731&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/ejk0731/github-readme-stats)
 </div>
+
+<div align="center">
+  <a href="mailto:hinaus12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hinaus12@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2ejk0731&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
+
