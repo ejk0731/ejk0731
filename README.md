@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="mailto:hinaus12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hinaus12@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a>
+<br/>
+![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejk0731&show_icons=true&theme=radical)
