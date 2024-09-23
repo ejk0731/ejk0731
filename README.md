@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejk0731&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/ejk0731/github-readme-stats)
+
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejk0731&langs_count=10&layout=compact&theme=default)](https://github.com/ejk0731/ejk0731)
 </div>
 
 <div align="center">
