@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <h3 align="center">⚡ Contact ME ⚡</h3>
 <div align="center">
   <a href="mailto:hinaus12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hinaus12@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2ejk0731&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejk0731%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 
