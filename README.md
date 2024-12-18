@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB" style={display: "inline"}/>
   <img src="https://img.shields.io/badge/Typescript-20232a.svg?style=flat&logo=typescript&logoColor=#3178C6" style={display: "inline"} />
-  <img src="https://img.shields.io/badge/next.js-20232a.svg?style=flat&logo=nextdotjs&logoColor=white" style={display: "inline"} />
+  <img src="https://img.shields.io/badge/Next.js-20232a.svg?style=flat&logo=nextdotjs&logoColor=white" style={display: "inline"} />
   <img src="https://img.shields.io/badge/Javascript-20232a.svg?style=flat&logo=javascript&logoColor=#F7DF1E" />
   <img src="https://img.shields.io/badge/jQuery-20232a.svg?style=flat&logo=jquery&logoColor=#0769AD" />
 </div>
