@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB" style={display: "inline"}/>
   <img src="https://img.shields.io/badge/Typescript-20232a.svg?style=flat&logo=typescript&logoColor=#3178C6" style={display: "inline"} />
+  <img src="https://img.shields.io/badge/next.js-20232a.svg?style=flat&logo=nextdotjs&logoColor=white" style={display: "inline"} />
   <img src="https://img.shields.io/badge/Javascript-20232a.svg?style=flat&logo=javascript&logoColor=#F7DF1E" />
   <img src="https://img.shields.io/badge/jQuery-20232a.svg?style=flat&logo=jquery&logoColor=#0769AD" />
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Html5-20232a.svg?style=flat&logo=html5&logoColor=#E34F26" />
   <img src="https://img.shields.io/badge/CSS3-20232a.svg?style=flat&logo=CSS3&logoColor=#1572B6" />
   <img src="https://img.shields.io/badge/Sass-20232a.svg?style=flat&logo=sass&logoColor=#CC6699" />
-</div>
-<div align="center">
   <img src="https://img.shields.io/badge/StyledComponents-20232a.svg?style=flat&logo=styledcomponents&logoColor=#E34F26" />
   <img src="https://img.shields.io/badge/AntDesign-20232a.svg?style=flat&logo=antdesign&logoColor=#0170FE" />
 </div>
