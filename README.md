@@ -1,19 +1,19 @@
 ## Hi there 👋 
+<a href="mailto:hinaus12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hinaus12@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a> <br/><br/>
+😄 I’m Frontend Web Developer <br/>
+🔭 I’m currently working on E-commerce Project (React, Typescript, NEXT.js)<br/>
+🌱 I’m currently learning Data Structure and Algorithms <br/>
 
 <!--
 **ejk0731/ejk0731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejk0731&theme=vue&show_icons=true)
 -->
 <h3>⚡ My Skills ⚡</h3>
 <div>
@@ -34,12 +34,6 @@ Here are some ideas to get you started:
   
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejk0731&langs_count=10&layout=compact&theme=default)](https://github.com/ejk0731/ejk0731)
 
-</div>
-
-<h3>⚡ Contact ME ⚡</h3>
-<div>
-  <a href="mailto:hinaus12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hinaus12@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejk0731%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 
