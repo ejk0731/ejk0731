@@ -2,19 +2,8 @@
 <a href="mailto:hinaus12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hinaus12@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a> <br/><br/>
 😄 I’m Frontend Web Developer <br/>
 🔭 I’m currently working on E-commerce Project (React, Typescript, NEXT.js)<br/>
-🌱 I’m currently learning Data Structure and Algorithms <br/>
+🌱 I’m currently learning Data Structures and Algorithms <br/>
 
-<!--
-**ejk0731/ejk0731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h3>⚡ My Skills ⚡</h3>
 <div>
   <img src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB" style={display: "inline"}/>
