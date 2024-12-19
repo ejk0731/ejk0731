@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/StyledComponents-20232a.svg?style=flat&logo=styledcomponents&logoColor=#E34F26" />
   <img src="https://img.shields.io/badge/AntDesign-20232a.svg?style=flat&logo=antdesign&logoColor=#0170FE" />
 </div>
-<br/>
 
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <div>
