@@ -1,7 +1,7 @@
 ## Hi there 👋 
 <a href="mailto:hinaus12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hinaus12@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a> <br/><br/>
 😄 I’m Frontend Web Developer <br/>
-🔭 I’m currently working on [E-commerce Project](https://betty-react.vercel.app/) (React, Typescript, NEXT.js, better-sqlite3)<br/>
+🔭 I’m currently working on <ins>Headless-CMS Project</ins> (React, Typescript, NEXT.js, Sanity.io)<br/>
 🌱 I’m currently learning Data Structures and Algorithms <br/>
 
 <h3>⚡ My Skills ⚡</h3>
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Typescript-20232a.svg?style=flat&logo=typescript&logoColor=#3178C6" style={display: "inline"} />
   <img src="https://img.shields.io/badge/Next.js-20232a.svg?style=flat&logo=nextdotjs&logoColor=white" style={display: "inline"} />
   <img src="https://img.shields.io/badge/Javascript-20232a.svg?style=flat&logo=javascript&logoColor=#F7DF1E" />
+  <img src="https://img.shields.io/badge/MongoDB-20232a.svg?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-20232a.svg?style=flat&logo=jquery&logoColor=#0769AD" />
   <img src="https://img.shields.io/badge/Html5-20232a.svg?style=flat&logo=html5&logoColor=#E34F26" />
   <img src="https://img.shields.io/badge/CSS3-20232a.svg?style=flat&logo=CSS3&logoColor=#1572B6" />
