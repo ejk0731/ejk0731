@@ -13,10 +13,12 @@
   <img src="https://img.shields.io/badge/MongoDB-20232a.svg?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Sanity-20232a.svg?style=flat&logo=sanity&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-20232a.svg?style=flat&logo=jquery&logoColor=#0769AD" />
+  <br/>
   <img src="https://img.shields.io/badge/Html5-20232a.svg?style=flat&logo=html5&logoColor=#E34F26" />
   <img src="https://img.shields.io/badge/CSS3-20232a.svg?style=flat&logo=CSS&logoColor=#1572B6" />
   <img src="https://img.shields.io/badge/Sass-20232a.svg?style=flat&logo=sass&logoColor=#CC6699" />
   <img src="https://img.shields.io/badge/StyledComponents-20232a.svg?style=flat&logo=styledcomponents&logoColor=#E34F26" />
+  <img src="https://img.shields.io/badge/TailwindCSS-20232a.svg?style=flat&logo=tailwindCss&logoColor=#E34F26" />
   <img src="https://img.shields.io/badge/AntDesign-20232a.svg?style=flat&logo=antdesign&logoColor=#0170FE" />
 </div>
 
