@@ -1,5 +1,5 @@
 ## Hi there 👋 
-<a href="mailto:ejkw73@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hinaus12@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a> <br/><br/>
+<a href="mailto:ejkw73@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ejkw73@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=fff"/></a> <br/><br/>
 😄 I’m Frontend Web Developer <br/>
 🔭 I’m currently working on <ins>Headless-CMS Project</ins> (React, Typescript, NEXT.js, Sanity.io)<br/>
 🌱 I’m currently learning Data Structures and Algorithms <br/>
